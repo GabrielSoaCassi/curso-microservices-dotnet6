@@ -1,1 +1,1 @@
-# cruso-microservices-dotnet6
+# curso-microservices-dotnet6
